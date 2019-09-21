@@ -4,7 +4,7 @@ import './css/app.css'
 
 const App = () => (
   <Fragment>
-    <h2>THe modules is Hot!</h2>
+    <h2>THe modules is Hottttatttttttttttttttt]!</h2>
   </Fragment>
 )
 
