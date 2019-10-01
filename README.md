@@ -1,6 +1,6 @@
-# React Hot Module Replacement Boilerplate
+# React Stripe Checkout
 
-Boilerplate for using Webpack's Hot Module Replacement with Node and React
+Basic Stripe checkout with Node and React
 
 ## Setup
 
@@ -15,7 +15,7 @@ npm install
 To run in hot module reloading mode:
 
 ```sh
-npm start
+npm run start-server
 ```
 
 To create a production build:

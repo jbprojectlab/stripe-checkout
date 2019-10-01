@@ -1,10 +1,12 @@
 import React, {Fragment} from 'react'
 import ReactDOM from 'react-dom'
 import './css/app.css'
+import Checkout from './components/checkout';
 
 const App = () => (
   <Fragment>
-    <h2>THe modules is Hottttatttttttttttttttt]!</h2>
+    <h2>Checkout</h2>
+    <Checkout />
   </Fragment>
 )
 
